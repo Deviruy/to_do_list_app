@@ -1,0 +1,19 @@
+# Ignorar arquivos relacionados à linguagem C++
+*.cpp linguist-generated
+*.h linguist-generated
+*.hpp linguist-generated
+*.cc linguist-generated
+*.cxx linguist-generated
+*.c++ linguist-generated
+
+# Ignorar arquivos do CMake
+CMakeLists.txt linguist-generated
+*.cmake linguist-generated
+
+# Ignorar arquivos relacionados à linguagem HTML
+*.html linguist-generated
+*.htm linguist-generated
+
+# Ignorar arquivos relacionados à linguagem Kotlin
+*.kt linguist-generated
+*.kts linguist-generated
